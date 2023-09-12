@@ -4,3 +4,4 @@ description: SIP Session 12/09/23 09:00AM
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
